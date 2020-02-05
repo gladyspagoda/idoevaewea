@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aepahhieb.tsugaruben.com/sitemap.xml
